@@ -16,7 +16,5 @@
 For training, model configuration can be set in `config.py` file. I trained this model for binary class segmentation using U-Net. Due to unavailability of GPU, it took 16 hours to train a model on CPU.
 
 
-## Model File
-
-
-Note: Code and datset are taken from [@seth814](https://github.com/seth814). I changed code files to work on CPU and interpret a input image to perform semantic segmentation.
+### Credits
+Code and datset are taken from [@seth814](https://github.com/seth814). I changed code files to work on CPU and interpret a input image to perform semantic segmentation.
