@@ -19,7 +19,7 @@
  *Predicted Output*
 
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src=./images/2.jpg" width="48">
 
 
 
