@@ -19,9 +19,7 @@
  *Predicted Output*
 
 
-
-![test](https://github.com/favicon.ico | width=48)
-
+<img src="https://github.com/favicon.ico" width="48">
 
 
 
