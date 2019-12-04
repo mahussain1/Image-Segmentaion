@@ -1,6 +1,6 @@
 # Image-Segmentaion
 
-![alt tag](../master/Image-Segmentaion/test/1.jpg)
+![alt tag](./test/1.jpg)
 ![test](../master/Image-Segmentaion/test/2.jpg)
 ![test](../master/Image-Segmentaion/test/3.jpg)
 
