@@ -10,22 +10,13 @@
 ![mask](./mask/2.png)
 ![mask](./mask/3.png)
  
- *Ground Truth-c*
+ *Ground Truth*
 
 ![pred](./pred/1.png)
 ![pred](./pred/2.png)
 ![pred](./pred/3.png)
 
- *Predicted Output-c*
-
-
-
-
-
-
-
-
-
+ *Predicted Output*
 
 
 
