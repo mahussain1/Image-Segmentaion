@@ -13,7 +13,7 @@
  *Predicted Output*
 
 ## Train
-For training, model configuration can be set in `config.py` file. I trained this model for binary class segmentation using U-Net. Due to unavailability of GPU, it took 16 hours to train a model on CPU.
+For training, model configuration can be set in `config.py` file. After that open conda enviroemnt and change directory to project folder. Run `python train.py` to start training process. I trained this model for binary class segmentation using U-Net. Due to unavailability of GPU, it took 16 hours to train a model on CPU.
 
 
 ### Credits
