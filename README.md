@@ -1,6 +1,6 @@
 # Image-Segmentaion
 
-![test-a size](./test/1.jpg)
+![test-a size](./test/1.jpg =24x48)
 ![test-b](./test/2.jpg)
 ![test-c](./test/3.jpg)
 
