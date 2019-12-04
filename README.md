@@ -1,6 +1,6 @@
 # Image-Segmentaion
 
-![test-a size](./test/1.jpg | width=100)
+![test-a size](./test/1.jpg)
 ![test-b](./test/2.jpg)
 ![test-c](./test/3.jpg)
 
@@ -20,7 +20,7 @@
 
 
 
-
+![test](https://github.com/favicon.ico | width=48)
 
 
 
