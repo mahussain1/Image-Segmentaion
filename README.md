@@ -1,8 +1,8 @@
 # Image-Segmentaion
 
-![test](1.jpg)
-![test](1.jpg)
-![test](1.jpg)
+![alt tag](../master/Image-Segmentaion/test/1.jpg)
+![test](../master/Image-Segmentaion/test/2.jpg)
+![test](../master/Image-Segmentaion/test/3.jpg)
 
 
 ![mask](1.png)
