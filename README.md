@@ -1,24 +1,22 @@
 # Image-Segmentaion
 
-![test-a](./test/1.jpg)
+![test-a](./test/1.jpg width="200" height="400")
 ![test-b](./test/2.jpg)
 ![test-c](./test/3.jpg)
 
   *input images*
 
 ![mask](./mask/1.png)
-*Ground Truth-a*
 ![mask](./mask/2.png)
-*Ground Truth-c*
 ![mask](./mask/3.png)
-*Ground Truth-c*
+ 
+ *Ground Truth-c*
 
 ![pred](./pred/1.png)
-*Predicted Output-a*
 ![pred](./pred/2.png)
-*Predicted Output-b*
 ![pred](./pred/3.png)
-*Predicted Output-c*
+
+ *Predicted Output-c*
 
 
 
