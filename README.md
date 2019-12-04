@@ -1,9 +1,18 @@
 # Image-Segmentaion
 
+![test](1.jpg)
+![test](1.jpg)
+![test](1.jpg)
 
 
+![mask](1.png)
+![mask](1.png)
+![mask](1.png)
 
 
+![pred](1.png)
+![pred](1.png)
+![pred](1.png)
 
 
 
