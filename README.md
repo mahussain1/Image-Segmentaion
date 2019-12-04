@@ -1,7 +1,7 @@
 # Image-Segmentaion
 
 ![test-a](./test/1.jpg)
-**input image-a**
+*input image-a*
 ![test-b](./test/2.jpg)
 **input image-b**
 ![test-c](./test/3.jpg)
