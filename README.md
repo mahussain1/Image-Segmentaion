@@ -1,11 +1,9 @@
 # Image-Segmentaion
 
 ![test-a](./test/1.jpg)
-
 ![test-b](./test/2.jpg)
-
 ![test-c](./test/3.jpg)
-input images
+  *input images*
 
 ![mask](./mask/1.png)
 *Ground Truth-a*
