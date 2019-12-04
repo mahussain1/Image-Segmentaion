@@ -1,6 +1,6 @@
 # Image-Segmentaion
 
-![test-a size](./test/1.jpg, width="200" height="400")
+![test-a size](./test/1.jpg width="100" height="100")
 ![test-b](./test/2.jpg)
 ![test-c](./test/3.jpg)
 
