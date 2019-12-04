@@ -17,4 +17,4 @@
 
 
 
-Note: The code and all data files are taekn from [@seth814](https://github.com/seth814). Credit goes to him. I changed code files to work on CPU and interpreted to input a single frame to perform semantic segmentation.
+Note: Code and custom datset are taken from [@seth814](https://github.com/seth814). I changed code files to work on CPU and interpret a input image to perform semantic segmentation.
