@@ -1,18 +1,14 @@
 # Image-Segmentaion
 
-<img src="./test/1.jpg" height="100" width="100">b<img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
+<img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
 
   *input images*
 
-<img src="./mask/1.png" height="100" width="100">
-<img src="./mask/1.png" height="100" width="100">
-<img src="./mask/1.png" height="100" width="100">
+<img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100">
  
  *Ground Truth*
 
-<img src="./pred/1.png" height="100" width="100">
-<img src="./pred/2.png" height="100" width="100">
-<img src="./pred/3.png" height="100" width="100">
+<img src="./pred/1.png" height="100" width="100"> <img src="./pred/2.png" height="100" width="100"> <img src="./pred/3.png" height="100" width="100">
 
  *Predicted Output*
 
