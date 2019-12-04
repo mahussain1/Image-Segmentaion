@@ -19,7 +19,7 @@
  *Predicted Output*
 
 
-<img src=./pred/2.png" width="48">
+<img src="./pred/2.png" width="48">
 
 
 
