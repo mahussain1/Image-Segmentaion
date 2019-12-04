@@ -1,18 +1,18 @@
 # Image-Segmentaion
 
-![alt tag](./test/1.jpg)
-![test](../master/Image-Segmentaion/test/2.jpg)
-![test](../master/Image-Segmentaion/test/3.jpg)
+![test-a](./test/1.jpg)
+![test-b](./test/2.jpg)
+![test-c](./test/3.jpg)
 
 
-![mask](1.png)
-![mask](1.png)
-![mask](1.png)
+![mask](./mask/1.png)
+![mask](./mask/2.png)
+![mask](./mask/3.png)
 
 
-![pred](1.png)
-![pred](1.png)
-![pred](1.png)
+![pred](./pred/1.png)
+![pred](./pred/2.png)
+![pred](./pred/3.png)
 
 
 
