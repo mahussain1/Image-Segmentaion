@@ -1,8 +1,8 @@
 # Image-Segmentaion
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
-<figcaption>Fig.2 input images</figcaption>
+<figcaption>Fig.1 input images</figcaption>
 
-
+<p>
 <img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100">
 <figcaption>Fig.2 Ground Truth</figcaption>
 
