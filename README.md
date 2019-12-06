@@ -1,16 +1,18 @@
 # Image-Segmentaion
-
+<figure>
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
-<figcaption>Fig.1 -  input images.</figcaption>
+<figcaption>Fig.2 input images</figcaption>
+ </figure>
  
-
+<figure>
 <img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100"> <img src="./mask/1.png" height="100" width="100">
+<figcaption>Fig.2 Ground Truth</figcaption>
+ </figure>
 
- *Ground Truth*
-
+<figure>
 <img src="./pred/1.png" height="100" width="100"> <img src="./pred/2.png" height="100" width="100"> <img src="./pred/3.png" height="100" width="100">
-
- *Predicted Output*
+<figcaption>Fig.3 Predicted Output</figcaption>
+</figure>
 
 ## Train
 Before training, model configuration  can be set in `config.py` file. After that open conda enviroemnt and change directory to project folder. Run `python train.py` to start training process. I trained this model for binary class segmentation using U-Net. Due to unavailability of GPU, it took 16 hours to train a model on CPU :blush:.
