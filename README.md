@@ -1,6 +1,7 @@
 # Image-Segmentaion
 <figure>
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
+  
 <figcaption>Fig.2 input images</figcaption>
 
 
