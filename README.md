@@ -1,7 +1,8 @@
 
-[[_TOC_]]
-
 # Image-Segmentaion
+
+[_TOC_]
+
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
 
 *Fig.1 input images*
@@ -24,3 +25,4 @@ Before training, model configuration  can be set in `config.py` file. After that
 
 ### Credits
 Code and datset are taken from [@seth814](https://github.com/seth814). I modifed code files to work on CPU and interpret a input image rather stream of video, to perform semantic segmentation.
+
