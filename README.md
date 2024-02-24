@@ -1,7 +1,6 @@
 
 # Image-Segmentaion
 
-[_TOC_]
 
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
 
