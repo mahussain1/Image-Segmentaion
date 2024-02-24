@@ -1,3 +1,6 @@
+
+[[_TOC_]]
+
 # Image-Segmentaion
 <img src="./test/1.jpg" height="100" width="100"> <img src="./test/2.jpg" height="100" width="100"> <img src="./test/3.jpg" height="100" width="100">
 
@@ -18,7 +21,6 @@ Before training, model configuration  can be set in `config.py` file. After that
 * Open `stream_c.py` and locate yourself at `cv2.imread()` where you need to manually enter path of image that you want to input the model.
 
 * Activate conda enviroment and run `stream_c.py`. I am not good at naming files, you can change if you want.
-
 
 ### Credits
 Code and datset are taken from [@seth814](https://github.com/seth814). I modifed code files to work on CPU and interpret a input image rather stream of video, to perform semantic segmentation.
